@@ -1,0 +1,6 @@
+{
+  "name": "Roadkill - Retro 3D Combat Racing",
+  "description": "Fast-paced pseudo-3D motorcycle racing and combat game inspired by Road Rash. Battle rival bikers across USA, Italy, Japan, and France with authentic 8-bit sound effects and chiptune action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
